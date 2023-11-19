@@ -1,1 +1,2 @@
 Welcome to this course
+This lesson is about git diff
